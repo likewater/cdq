@@ -1,0 +1,13 @@
+#showAshton, #showEva, #errorAge,#errorGender {
+  display: none;
+}
+
+form#Form{
+  padding: 30px;
+  border: solid gray 5px;
+  margin: 15px;
+}
+
+#missingInfo{
+  margin: 50px;
+}
